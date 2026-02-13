@@ -1,0 +1,7 @@
+[profile.dev]
+opt-level = 3
+split-debuginfo = "packed"
+lto = "thin"
+
+
+
